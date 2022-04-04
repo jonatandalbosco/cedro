@@ -146,7 +146,7 @@ $(document).ready(function(){
       // -------   Mail Send ajax
 
          $(document).ready(function() {
-            var form = $('#booking'); // Contato form
+            var form = $('#booking'); // contato form
             var submit = $('.submit-btn'); // submit button
             var alert = $('.alert-msg'); // alert div for show alert message
 
