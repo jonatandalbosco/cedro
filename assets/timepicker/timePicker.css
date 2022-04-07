@@ -35,7 +35,7 @@
 }
 #ptTimeSelectCntr .ui-widget{}
 #ptTimeSelectCntr .ui-widget-header {
-  background: #43c3ea none repeat scroll 0 0;
+  background: #ffc064 none repeat scroll 0 0;
   border: 2px solid #252525;
   border-radius: 0;
   color: #fff;
@@ -97,8 +97,8 @@
 }
 #ptTimeSelectCntr .ptTimeSelectHrCntr a:hover, 
 #ptTimeSelectCntr .ptTimeSelectMinCntr a:hover{
-  background: #43c3ea !important;
-  border-color: #43c3ea !important;
+  background: #ffc064 !important;
+  border-color: #ffc064 !important;
 }
 
 
@@ -143,8 +143,8 @@
   transition: all 500ms ease;
 }
 #ptTimeSelectCntr .ui-state-default:hover{
-  background: #43c3ea !important; 
-  border-color: #43c3ea !important; 
+  background: #ffc064 !important; 
+  border-color: #ffc064 !important; 
 }
 
 
@@ -181,7 +181,7 @@
   transition: all 500ms ease;
 }
 #ptTimeSelectCntr #ptTimeSelectSetButton a:hover{
-  background: #43c3ea !important;  
+  background: #ffc064 !important;  
 } 
 
 

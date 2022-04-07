@@ -112,7 +112,7 @@ input:-webkit-autofill:focus {
 }
 /* jQuery ui dropdown Hover style */
 .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus {
-  background: #43c3ea none repeat scroll 0 0;
+  background: #ffc064 none repeat scroll 0 0;
   border: none;
   color: #fff;
   font-size: 14px;
