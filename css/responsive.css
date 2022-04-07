@@ -644,7 +644,7 @@
   z-index:12;
 }        
 .main-menu .navbar-header .navbar-toggle {
-  border: 2px solid #43c3ea;
+  border: 2px solid #ffc064;
   display: inline-block;
   float: none;
   margin: 0;
@@ -721,14 +721,14 @@
   padding:10px 10px !important;
   line-height:22px;
   color:#ffffff;
-  background:#152545;
+  background:#2e2d2b;
   text-align:left;
 } 
 .main-menu .navbar-collapse > .navigation > li > ul > li > a{
   padding:10px 20px !important;
   line-height:22px;
   color:#ffffff;
-  background:#152545;
+  background:#2e2d2b;
   text-align:left;
   font-size: 13px;
   font-weight: 600;
@@ -739,13 +739,13 @@
 .main-menu .navbar-collapse > .navigation > li > a:hover,
 .main-menu .navbar-collapse > .navigation > li > a:active,
 .main-menu .navbar-collapse > .navigation > li > a:focus{
-  background:#43c3ea;
+  background:#ffc064;
 } 
 .main-menu .navbar-collapse > .navigation > li:hover > a,
 .main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
 .main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
 .main-menu .navbar-collapse > .navigation > li.current > a{
-  background:#43c3ea;
+  background:#ffc064;
   color:#ffffff !important;
 }        
 .main-menu .navbar-collapse > .navigation li.dropdown .dropdown-btn{
