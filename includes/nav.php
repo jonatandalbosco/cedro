@@ -4,41 +4,16 @@
         <div class="row">
             <div class="col-lg-6 col-md-5 col-sm-12 col-xs-12">
                 <div class="welcome">
-                    <p>Welcome to Repairplus Experts, Theme for Repair Shops</p>
+                    <p>Bem Vindo ao Cedro Tecnologia, a sua Assistência Técnica</p>
                 </div> 
             </div>
-            <div class="col-lg-4 col-md-5 col-sm-12 col-xs-12">
-                <div class="topinfo clearfix">
-                    <div class="select-items clearfix">
-                        <div class="single-select-item extras">
-                            <select name="extra" class="selectpicker">
-                                <option>Extras</option>
-                                <option>Extras 1</option>
-                                <option>Extras 2</option>
-                                <option>Extras 3</option>
-                            </select>
-                        </div>
-                        <div class="single-select-item">
-                            <select name="info" class="selectpicker">
-                                <option>Informations</option>
-                                <option>Informations 1</option>
-                                <option>Informations 2</option>
-                                <option>Informations 3</option>
-                            </select>
-                        </div>
-                    </div>
-                    <div class="rate">
-                        <h6>Repair Rates</h6>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+          
+            <div class="col-lg-6 col-md-2 col-sm-12 col-xs-12">
                 <div class="top-social-links">
                     <ul>
-                        <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.instagram.com/cedrotecnologia/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li> 
+                         
+                        <li><a href="https://api.whatsapp.com/send/?phone=5511959493700&text&app_absent=0"><i class="fa fa-whatsapp" aria-hidden="true"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -53,8 +28,8 @@
         <div class="row">
             <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
                 <div class="logo">
-                    <a href="index.html">
-                        <img src="images/resources/logo.png" alt="Awesome Logo">
+                    <a href="index.php">
+                        <img src="images/logo-cedro.png" alt="Awesome Logo" class="logo-cedro">
                     </a>
                 </div>
             </div>
@@ -66,8 +41,8 @@
                                 <span class="flaticon-home-page"></span>
                             </div>
                             <div class="text-holder">
-                                <h5>321, Breaking Street</h5>
-                                <h6>Newyork ,USA 10002</h6>
+                                <h5>São Paulo, SP, Rua Barão de Duprat, 323</h5>
+                                <h6>5° Andar, Loja 536, Centro</h6>
                             </div>
                         </li>
                         <li>
@@ -75,17 +50,8 @@
                                 <span class="flaticon-clock"></span>
                             </div>
                             <div class="text-holder">
-                                <h5>Opening Time</h5>
-                                <h6>Mon - Sat: 09.00 to 18.00</h6>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="iocn-holder">
-                                <span class="flaticon-envelope"></span>
-                            </div>
-                            <div class="text-holder">
-                                <h5>Mail Us</h5>
-                                <h6>Supportyou@Repairplus.com</h6>
+                                <h5>Horário de Funcionamento</h5>
+                                <h6>Segunda a Sexta - 08:00 às 17:00 <br> Sábado das 08:00 ás 13:00</h6>
                             </div>
                         </li>
                     </ul>
@@ -157,7 +123,7 @@
                     </div>
                     <div class="title-holder">
                         <h5>Atendimento</h5>
-                        <h4>1800-56-78-9012</h4>
+                        <h4>(11) 95949-3700</h4>
                     </div>
                 </div>
                 <div class="top-search-box pull-right">
