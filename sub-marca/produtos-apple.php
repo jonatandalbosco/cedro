@@ -36,7 +36,7 @@
     <!--Start breadcrumb area-->
     <section class="breadcrumb-area">
         <div class="container text-center">
-            <h1>Marca do produto que deseja</h1>
+            <h1>Apple</h1>
         </div>
     </section>
     <!--End breadcrumb area-->
@@ -49,6 +49,8 @@
                     <li><a href="../index.php">Inicio</a></li>
                     <li><i class="fa fa-caret-right" aria-hidden="true"></i></li>
                     <li>Marca do produto que deseja</li>
+                    <li><i class="fa fa-caret-right" aria-hidden="true"></i></li>
+                    <li>Apple</li>
                 </ul>
             </div>
         </div>
@@ -68,7 +70,7 @@
                             <div class="col-md-4 col-sm-4 col-xs-12">
                                 <div class="single-product-item">
                                     <div class="img-holder">
-                                        <img src="../images/marca-produtos/apple-logo.jpg" alt="Awesome Product Image">
+                                        <img src="../images/sub-images/frontal-iphone.png" alt="Awesome Product Image">
                                         <div class="overlay-box">
                                             <div class="box">
                                                 <div class="content">
@@ -81,7 +83,7 @@
                                         <div class="top clearfix">
                                             <div class="product-title text-center">
                                                 <a href="produt">
-                                                    <h5>APPLE</h5>
+                                                    <h5>FRONTAL IPHONE</h5>
                                                 </a>
                                             </div>
                                         </div>
@@ -95,7 +97,7 @@
                             <div class="col-md-4 col-sm-4 col-xs-12">
                                 <div class="single-product-item">
                                     <div class="img-holder">
-                                        <img src="../images/marca-produtos/logo-samsung.png" alt="Awesome Product Image">
+                                        <img src="../images/sub-images/Camera-frontal-e-traseira-apple.png" alt="Awesome Product Image">
                                         <div class="overlay-box">
                                             <div class="box">
                                                 <div class="content">
@@ -108,7 +110,7 @@
                                         <div class="top clearfix">
                                             <div class="product-title text-center">
                                                 <a href="shop-single.html">
-                                                    <h5>SAMSUNG</h5>
+                                                    <h5>CAMERA FRONTAL E TRASEIRA IPHONE</h5>
                                                 </a>
                                             </div>
                                         </div>
@@ -122,7 +124,7 @@
                             <div class="col-md-4 col-sm-4 col-xs-12">
                                 <div class="single-product-item">
                                     <div class="img-holder">
-                                        <img src="../images/marca-produtos/logo-motorola-white.png"
+                                        <img src="../images/sub-images/conector-carga-apple.png"
                                             alt="Awesome Product Image">
                                         <div class="overlay-box">
                                             <div class="box">
@@ -136,7 +138,7 @@
                                         <div class="top clearfix">
                                             <div class="product-title text-center">
                                                 <a href="shop-single.html">
-                                                    <h5>MOTOROLA</h5>
+                                                    <h5>CONECTOR CARGA IPHONE</h5>
                                                 </a>
                                             </div>
                                         </div>
@@ -150,7 +152,7 @@
                             <div class="col-md-4 col-sm-4 col-xs-12">
                                 <div class="single-product-item">
                                     <div class="img-holder">
-                                        <img src="../images/marca-produtos/logo-asus-white.png"
+                                        <img src="../images/sub-images/flex-power-apple.png"
                                             alt="Awesome Product Image">
                                         <div class="overlay-box">
                                             <div class="box">
@@ -164,7 +166,7 @@
                                         <div class="top clearfix">
                                             <div class="product-title text-center">
                                                 <a href="shop-single.html">
-                                                    <h5>ASUS</h5>
+                                                    <h5>FLEX POWER IPHONE</h5>
                                                 </a>
                                             </div>
                                         </div>
@@ -178,7 +180,7 @@
                             <div class="col-md-4 col-sm-4 col-xs-12">
                                 <div class="single-product-item">
                                     <div class="img-holder">
-                                        <img src="../images/marca-produtos/xiamo-logo-white.png"
+                                        <img src="../images/sub-images/bateria-iphone.png"
                                             alt="Awesome Product Image">
                                         <div class="overlay-box">
                                             <div class="box">
@@ -192,7 +194,7 @@
                                         <div class="top clearfix">
                                             <div class="product-title text-center">
                                                 <a href="shop-single.html">
-                                                    <h5>XIAOMI</h5>
+                                                    <h5>BATERIA IPHONE</h5>
                                                 </a>
                                             </div>
                                         </div>
@@ -207,7 +209,7 @@
                             <div class="col-md-4 col-sm-4 col-xs-12">
                                 <div class="single-product-item">
                                     <div class="img-holder">
-                                        <img src="../images/marca-produtos/logo-lg-white.png"
+                                        <img src="../images/sub-images/auto-falante-apple.png"
                                             alt="Awesome Product Image">
                                         <div class="overlay-box">
                                             <div class="box">
@@ -221,7 +223,61 @@
                                         <div class="top clearfix">
                                             <div class="product-title text-center">
                                                 <a href="shop-single.html">
-                                                    <h5>LG</h5>
+                                                    <h5>AUTO FALANTE E AIRCULAR E VIBRA CALL IPHONE</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!--End single product item-->
+                                                        <!--Start single product item-->
+                                                        <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="single-product-item">
+                                    <div class="img-holder">
+                                        <img src="../images/sub-images/tampa-e-carcaca-iphone.png"
+                                            alt="Awesome Product Image">
+                                        <div class="overlay-box">
+                                            <div class="box">
+                                                <div class="content">
+                                                    <a class="thm-btn bg-1" href="shop-single.html">Ver agora</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="title-holder">
+                                        <div class="top clearfix">
+                                            <div class="product-title text-center">
+                                                <a href="shop-single.html">
+                                                    <h5>TAMPA E CARCACA IPHONE</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!--End single product item-->
+                                                        <!--Start single product item-->
+                                                        <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="single-product-item">
+                                    <div class="img-holder">
+                                        <img src="../images/sub-images/trouch-ipad-apple.png"
+                                            alt="Awesome Product Image">
+                                        <div class="overlay-box">
+                                            <div class="box">
+                                                <div class="content">
+                                                    <a class="thm-btn bg-1" href="shop-single.html">Ver agora</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="title-holder">
+                                        <div class="top clearfix">
+                                            <div class="product-title text-center">
+                                                <a href="shop-single.html">
+                                                    <h5>TOUCH IPAD</h5>
                                                 </a>
                                             </div>
                                         </div>

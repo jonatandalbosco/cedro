@@ -137,7 +137,7 @@
                             </li>
                             <li class="dropdown"><a href="produtos-marca.php">Produtos</a>
                                 <ul>
-                                    <li><a href="produtos-marca.php">Marca do produto que deseja</a></li>
+                                    <li><a href="../produtos-marca.php">Marca do produto que deseja</a></li>
                                     <li><a href="shop-single.html">Produtos Únicos</a></li>
                                     <li><a href="shopping-cart.html">Carrinho de Compra</a></li>
                                     <li><a href="checkout.html">Checkout</a></li>
