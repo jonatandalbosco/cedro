@@ -51,8 +51,8 @@
                     data-responsive_offset="on"
                     data-start="700">
                     <div class="slide-content-box">
-                        <h1>Welcome to RepairPlus <br>quick repair</h1>
-                        <p>Using original manufactured parts and components, we are able to<br>restore your cell phones or iDevice to like-new condition.</p>
+                        <h1>Bem vindo ao Cedro Tecnologia <br>reparo rápido</h1>
+                        <p>Usando peças e componentes originais fabricados, podemos<br>restaurar seus telefones celulares ou iDevice para uma condição de novo.</p>
                     </div>
                 </div>
                 <div class="tp-caption tp-resizeme" 
@@ -103,8 +103,8 @@
                     data-responsive_offset="on"
                     data-start="500">
                     <div class="slide-content-box">
-                        <h1>We will replace quality <br>accessories</h1>
-                        <p>Using original manufactured parts and components, we are able to<br>restore your cell phones or iDevice to like-new condition.</p>
+                        <h1>Vamos substituir pela<br>melhor qualidade</h1>
+                        <p>Utilizando peças e componentes originais de fabricação, somos capazes de<br>restaure seus telefones celulares ou iDevice para a condição de novo.</p>
                         <div class="button">
                             <a class="thm-btn bg-1" href="#">Buy Now</a>    
                             <a class="thm-btn bg-2" href="#">Contact Us</a>    
@@ -168,87 +168,12 @@
     </div>
 </section>
 <!--End rev slider wrapper--> 
-    
-<!--Start call to action area-->
-<section class="call-to-action-area">
-    <div class="container">
-        <div class="row">
-            <!--Start single item-->
-            <div class="col-md-4">
-                <div class="single-item text-center">
-                    <a href="#">
-                        <h5>Smart phone Repair</h5>
-                    </a>
-                    <div class="img-holder">
-                        <img src="images/callto-action/1.jpg" alt="Awesome Image">
-                        <div class="overlay">
-                            <div class="box">
-                                <div class="content">
-                                    <a href="#"><i class="fa fa-link" aria-hidden="true"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="text-holder">
-                        <p>We specialise in Phone repairs for Apple iPhones, iPad, iPod, Samsung, Galaxy, Sony, HTC, Nexus, Motorola, Blackberry & Tablets.</p>
-                    </div>
-                </div>
-            </div>
-            <!--End single item-->
-            <!--Start single item-->
-            <div class="col-md-4">
-                <div class="single-item text-center">
-                    <a href="#">
-                        <h5>Tablets & Ipad Repair</h5>
-                    </a>
-                    <div class="img-holder">
-                        <img src="images/callto-action/2.jpg" alt="Awesome Image">
-                        <div class="overlay">
-                            <div class="box">
-                                <div class="content">
-                                    <a href="#"><i class="fa fa-link" aria-hidden="true"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="text-holder">
-                        <p>If you are facing any problem with your Tablets / Ipads, Kindly pls go through the menttioned catagories as per requirement.</p>
-                    </div>
-                </div>
-            </div>
-            <!--End single item-->
-            <!--Start single item-->
-            <div class="col-md-4">
-                <div class="single-item text-center">
-                    <a href="#">
-                        <h5>Desktop & Mac Repair</h5>
-                    </a>
-                    <div class="img-holder">
-                        <img src="images/callto-action/1.jpg" alt="Awesome Image">
-                        <div class="overlay">
-                            <div class="box">
-                                <div class="content">
-                                    <a href="#"><i class="fa fa-link" aria-hidden="true"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="text-holder">
-                        <p>We specialist in providing On-Site Computer Desktop Repair Service and Network Support for all sized business, On-Site Computer.</p>
-                    </div>
-                </div>
-            </div>
-            <!--End single item-->
-        </div>
-    </div>
-</section>
-<!--End call to action area-->
 
 <!--Start categories area-->
 <section class="categories-area" style="background-image:url(images/resources/categories-bg.jpg);">
     <div class="container">
         <div class="sec-title text-center">
-            <h1>Categories</h1>
+            <h1>Marcas de SMARTPHONE</h1>
         </div>
         <div class="row">
             <!--Start single item-->
@@ -257,13 +182,13 @@
                     <div class="icon-holder">
                         <div class="icon-box">
                             <div class="icon">
-                                <span class="flaticon-apple-logo"></span>
+                                <span></span>
                             </div>
                         </div>
                     </div>
                     <div class="text-holder">
-                        <h5>Apple iPhone</h5>
-                        <p>Disassembly & replacement guides for the original iPhone, iPhone 3GS, iPhone 4...</p>
+                        <h5>APPLE IPHONE</h5>
+                        <p>Em casos de mau funcionamento ou acidentes que geram danificação, traga o seu aparelho imediatamente para uma avaliação.</p>
                     </div>
                 </div>
             </div>
@@ -274,13 +199,13 @@
                     <div class="icon-holder">
                         <div class="icon-box">
                             <div class="icon">
-                                <span class="flaticon-android"></span>
+                                <span></span>
                             </div>
                         </div>
                     </div>
                     <div class="text-holder">
-                        <h5>Android Phone</h5>
-                        <p>We are pleased to offer a wide range of Android repairs services we can repair..</p>
+                        <h5>Xiaomi</h5>
+                        <p>Em casos de mau funcionamento ou acidentes que geram danificação, traga o seu aparelho imediatamente para uma avaliação.</p>
                     </div>
                 </div>
             </div>
@@ -291,13 +216,13 @@
                     <div class="icon-holder">
                         <div class="icon-box">
                             <div class="icon">
-                                <span class="flaticon-windows"></span>
+                                <span></span>
                             </div>
                         </div>
                     </div>
                     <div class="text-holder">
-                        <h5>windows Phone</h5>
-                        <p>Repair guides and teardowns for many Windows cell phones, a of manufacturers.</p>
+                        <h5>Motorola</h5>
+                        <p>Em casos de mau funcionamento ou acidentes que geram danificação, traga o seu aparelho imediatamente para uma avaliação.</p>
                     </div>
                 </div>
             </div>
@@ -308,13 +233,13 @@
                     <div class="icon-holder">
                         <div class="icon-box">
                             <div class="icon">
-                                <span class="flaticon-technology-2"></span>
+                                <span></span>
                             </div>
                         </div>
                     </div>
                     <div class="text-holder">
-                        <h5>Blackberry Phone</h5>
-                        <p>Are you looking for Blackberry repair? We carry out large number repairs every day...</p>
+                        <h5>Zenfone</h5>
+                        <p>Em casos de mau funcionamento ou acidentes que geram danificação, traga o seu aparelho imediatamente para uma avaliação.</p>
                     </div>
                 </div>
             </div>
@@ -325,13 +250,13 @@
                     <div class="icon-holder">
                         <div class="icon-box">
                             <div class="icon">
-                                <span class="flaticon-music-headphones"></span>
+                                <span></span>
                             </div>
                         </div>
                     </div>
                     <div class="text-holder">
-                        <h5>Phone Accessory</h5>
-                        <p>If you have any problems in your phone accessories dont worry our will repair...</p>
+                        <h5>LG</h5>
+                        <p>Em casos de mau funcionamento ou acidentes que geram danificação, traga o seu aparelho imediatamente para uma avaliação.</p>
                     </div>
                 </div>
             </div>
@@ -342,13 +267,13 @@
                     <div class="icon-holder">
                         <div class="icon-box">
                             <div class="icon">
-                                <span class="flaticon-desktop-monitor"></span>
+                                <span></span>
                             </div>
                         </div>
                     </div>
                     <div class="text-holder">
-                        <h5>Desktop Laptop</h5>
-                        <p>Also we done all types of desktop repair,we have experienced technicians...</p>
+                        <h5>Samsung</h5>
+                        <p>Em casos de mau funcionamento ou acidentes que geram danificação, traga o seu aparelho imediatamente para uma avaliação.</p>
                     </div>
                 </div>
             </div>
@@ -365,7 +290,7 @@
             <div class="col-md-6">
                 <div class="about-content">
                     <div class="sec-title-two">
-                        <h1>About Us</h1>
+                        <h1>Sobre nós</h1>
                         <span class="border"></span>
                     </div>
                     <ul>
@@ -386,15 +311,15 @@
                         </li>
                     </ul>
                     <div class="text-holder">
-                        <p>Our commitment to bring professionalism, good service & trust to the Phone repair service & maintenance business. We take immense pride in sending some of the most of professional technicians to yours phone to fix things that aren't workings. </p>
-                        <h3>Save time, Save money, With Quality Phone Repair Service, <span>Purchase - RepairPlus</span></h3>
+                        <p>Nosso compromisso de trazer profissionalismo, bom serviço e confiança ao negócio de serviços de reparo e manutenção de telefones. Temos imenso orgulho em ajudar diversos proprietários de SMARTPHONES.</p>
+                        <h3>Economize tempo, economize dinheiro, com serviço de reparo de telefone de qualidade, <span>Reparo é na Cedro Tecnologia</span></h3>
                     </div>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="choose-us-content">
                     <div class="sec-title-two">
-                        <h1>Why Choose Us</h1>
+                        <h1>Benefícios em nossa Loja</h1>
                         <span class="border"></span>
                     </div>
                     <ul>
@@ -412,17 +337,17 @@
                                 <span class="flaticon-wrench"></span>
                             </div>
                             <div class="text-holder">
-                                <h4>Quick Repair Process</h4>
-                                <p>The repair process is fast and convenient & our expert teams of Mr.Fixit repair, If you see a phone symbol in the top left corner of the screen.</p>
+                                <h4>Processo de reparo</h4>
+                                <p>Nossa equipe especializada garante um processo de reparo rápido e eficaz. </p>
                             </div>
                         </li>
                         <li>
                             <div class="iocn-holder">
-                                <span class="flaticon-customer-support"></span>
+                                <span class="flaticon-star"></span>
                             </div>
                             <div class="text-holder">
-                                <h4>24/7 Customer Support</h4>
-                                <p>24x7 techsupport is one of the best services in the Mr.Fixit. 24x7 tech support providing quality services at anytime, anywhere in the world.</p>
+                                <h4>Qualidade Garantida</h4>
+                                <p>A Cedro Tecnologia oferece peças da mais alta qualidade que podemos comprar. Atendemos proprietários de SMARTPHONES de todo o mundo e consertamos com sucesso muitos telefones.</p>
                             </div>
                         </li>
                     </ul>
@@ -438,38 +363,20 @@
     <div class="container">
         <div class="row">
             <!--Start single item-->
-            <div class="col-md-3 col-sm-6 col-xs-12">
+            <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item text-center">
-                    <h1><span class="timer" data-from="1" data-to="2456" data-speed="5000" data-refresh-interval="50">2456</span></h1>
+                    <h1><span class="timer" data-from="1" data-to="6456" data-speed="5000" data-refresh-interval="50">6456</span></h1>
                     <span class="border"></span>
-                    <h3>Mobiles Repaired</h3>
+                    <h3>Celulares Consertados</h3>
                 </div>
             </div>
             <!--End single item-->
             <!--Start single item-->
-            <div class="col-md-3 col-sm-6 col-xs-12">
+            <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="single-item text-center">
-                    <h1><span class="timer" data-from="1" data-to="146" data-speed="5000" data-refresh-interval="50">146</span><i class="fa fa-plus" aria-hidden="true"></i></h1>
+                    <h1><span class="timer" data-from="1" data-to="1567" data-speed="5000" data-refresh-interval="50">1.567</span><i class="fa fa-plus" aria-hidden="true"></i></h1>
                     <span class="border"></span>
-                    <h3>Expert Technicians</h3>
-                </div>
-            </div>
-            <!--End single item-->
-            <!--Start single item-->
-            <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="single-item text-center">
-                    <h1><span class="timer" data-from="1" data-to="853" data-speed="5000" data-refresh-interval="50">853</span><i class="fa fa-plus" aria-hidden="true"></i></h1>
-                    <span class="border"></span>
-                    <h3>Happy Customers</h3>
-                </div>
-            </div>
-            <!--End single item-->
-            <!--Start single item-->
-            <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="single-item text-center">
-                    <h1><span class="timer" data-from="1" data-to="2381" data-speed="5000" data-refresh-interval="50">2381</span></h1>
-                    <span class="border"></span>
-                    <h3>Desktop Repaired</h3>
+                    <h3>Clientes satisfeitos</h3>
                 </div>
             </div>
             <!--End single item-->
@@ -478,316 +385,6 @@
     </div>
 </section>
 <!--End fact counter area-->
-
-<!--Start appoinment area-->
-<section class="appoinment-area">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 col-sm-12 col-xs-12">
-                <div class="products">
-                    <div class="sec-title-two">
-                        <h1>Works Before & After</h1>
-                        <span class="border"></span>
-                    </div>
-                    <div class="row">
-                        <!--Start single item-->
-                        <div class="col-md-6 col-sm-6 col-xs-12">
-                            <div class="single-product">
-                                <ul>
-                                    <li>
-                                        <div class="img-holder">
-                                            <img src="images/appoinment/before-1.jpg" alt="Awesome Image">
-                                            <div class="overlay-box">
-                                                <div class="box">
-                                                    <div class="content">
-                                                        <a href="#">Before</a>
-                                                    </div>
-                                                </div>
-                                            </div> 
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="img-holder">
-                                            <img src="images/appoinment/after-1.jpg" alt="Awesome Image">
-                                            <div class="overlay-box">
-                                                <div class="box">
-                                                    <div class="content">
-                                                        <a href="#">After</a>
-                                                    </div>
-                                                </div>
-                                            </div> 
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!--End single item-->
-                        <!--Start single item-->
-                        <div class="col-md-6 col-sm-6 col-xs-12">
-                            <div class="single-product">
-                                <ul>
-                                    <li>
-                                        <div class="img-holder">
-                                            <img src="images/appoinment/before-2.jpg" alt="Awesome Image">
-                                            <div class="overlay-box">
-                                                <div class="box">
-                                                    <div class="content">
-                                                        <a href="#">Before</a>
-                                                    </div>
-                                                </div>
-                                            </div> 
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="img-holder">
-                                            <img src="images/appoinment/after-2.jpg" alt="Awesome Image">
-                                            <div class="overlay-box">
-                                                <div class="box">
-                                                    <div class="content">
-                                                        <a href="#">After</a>
-                                                    </div>
-                                                </div>
-                                            </div> 
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!--End single item-->
-                    </div>
-                    
-                    <div class="row">
-                        <!--Start single item-->
-                        <div class="col-md-6 col-sm-6 col-xs-12">
-                            <div class="single-product">
-                                <ul>
-                                    <li>
-                                        <div class="img-holder">
-                                            <img src="images/appoinment/before-3.jpg" alt="Awesome Image">
-                                            <div class="overlay-box">
-                                                <div class="box">
-                                                    <div class="content">
-                                                        <a href="#">Before</a>
-                                                    </div>
-                                                </div>
-                                            </div> 
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="img-holder">
-                                            <img src="images/appoinment/after-3.jpg" alt="Awesome Image">
-                                            <div class="overlay-box">
-                                                <div class="box">
-                                                    <div class="content">
-                                                        <a href="#">After</a>
-                                                    </div>
-                                                </div>
-                                            </div> 
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!--End single item-->
-                        <!--Start single item-->
-                        <div class="col-md-6 col-sm-6 col-xs-12">
-                            <div class="single-product">
-                                <ul>
-                                    <li>
-                                        <div class="img-holder">
-                                            <img src="images/appoinment/before-4.jpg" alt="Awesome Image">
-                                            <div class="overlay-box">
-                                                <div class="box">
-                                                    <div class="content">
-                                                        <a href="#">Before</a>
-                                                    </div>
-                                                </div>
-                                            </div> 
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="img-holder">
-                                            <img src="images/appoinment/after-4.jpg" alt="Awesome Image">
-                                            <div class="overlay-box">
-                                                <div class="box">
-                                                    <div class="content">
-                                                        <a href="#">After</a>
-                                                    </div>
-                                                </div>
-                                            </div> 
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!--End single item-->
-                    </div>
-                    
-                </div>
-            </div>
-            <div class="col-md-6 col-sm-12 col-xs-12">
-                <div class="appoinment">
-                    <div class="sec-title-two">
-                        <h1>Make an Appoinment</h1>
-                        <span class="border"></span>
-                    </div> 
-                    <form class="appoinment-form">
-                        <div class="row margin">
-                            <div class="col-md-6 pd">
-                                <div class="input-box">
-                                    <input type="text" name="name" placeholder="Name*">
-                                </div>
-                            </div>
-                            <div class="col-md-6 pd">
-                                <div class="input-box">
-                                    <input type="text" name="mail" placeholder="Email*">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row margin">
-                            <div class="col-md-6 pd">
-                                <div class="input-box">
-                                    <input type="text" name="phone" placeholder="Phone*">
-                                </div>
-                            </div>
-                            <div class="col-md-6 pd">
-                                <div class="input-box">
-                                    <input type="text" name="date" placeholder="Date" id="datepicker">
-                                    <div class="icon-box">
-                                        <i class="fa fa-calendar" aria-hidden="true"></i>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row margin">
-                            <div class="col-md-6 pd">
-                                <div class="input-box">
-                                    <input type="text" name="time" placeholder="Time">
-                                    <div class="icon-box">
-                                        <i class="fa fa-clock-o" aria-hidden="true"></i>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6 pd">
-                                <div class="input-box">
-                                    <select class="selectmenu">
-                                        <option selected="selected">Select Service</option>
-                                        <option>Select Service one</option>
-                                        <option>Select Service Two</option>
-                                        <option>Select Service Three</option>
-                                    </select>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row margin">
-                            <div class="col-md-12 pd">
-                                <div class="input-box">
-                                    <textarea name="message" placeholder="Message..."></textarea>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-12">
-                                <button class="thm-btn bg-1" type="submit">Send Now</button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--End appoinment area-->
-
-<!--Start latest blog area-->
-<section class="latest-blog-area">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="sec-title-two pull-left">
-                    <h1>Latest News</h1>
-                </div>
-                <div class="button pull-right">
-                    <a href="blog.html">Read More News<i class="fa fa-caret-right" aria-hidden="true"></i></a>
-                </div>
-            </div> 
-        </div>
-        <div class="row">
-            <!--Start single latest blog-->
-            <div class="col-md-4">
-                <div class="single-latest-blog">
-                    <div class="img-holder">
-                        <img src="images/blog/lat-blog-1.jpg" alt="Awesome Image">
-                        <div class="overlay-box">
-                            <div class="box">
-                                <div class="content">
-                                    <a href="blog-single.html"><i class="fa fa-link" aria-hidden="true"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="text-holder">
-                        <ul class="meta-info">
-                            <li><i class="fa fa-user" aria-hidden="true"></i><a href="#">Fletcher</a></li>
-                            <li><i class="fa fa-clock-o" aria-hidden="true"></i><a href="#">April 21, 2016</a></li>
-                        </ul>
-                        <a href="blog-single.html">
-                            <h3 class="blog-title">iPad Repairs For Schools / Universities Across The Usa</h3>
-                        </a> 
-                    </div>
-                </div>
-            </div>
-            <!--End single latest blog-->
-            <!--Start single latest blog-->
-            <div class="col-md-4">
-                <div class="single-latest-blog">
-                    <div class="img-holder">
-                        <img src="images/blog/lat-blog-2.jpg" alt="Awesome Image">
-                        <div class="overlay-box">
-                            <div class="box">
-                                <div class="content">
-                                    <a href="blog-single.html"><i class="fa fa-link" aria-hidden="true"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="text-holder">
-                        <ul class="meta-info">
-                            <li><i class="fa fa-user" aria-hidden="true"></i><a href="#">Fletcher</a></li>
-                            <li><i class="fa fa-clock-o" aria-hidden="true"></i><a href="#">April 11, 2016</a></li>
-                        </ul>
-                        <a href="blog-single.html">
-                            <h3 class="blog-title">We offer the best in same day iPhone Repairs plymouth</h3>
-                        </a> 
-                    </div>
-                </div>
-            </div>
-            <!--End single latest blog-->
-            <!--Start single latest blog-->
-            <div class="col-md-4">
-                <div class="single-latest-blog">
-                    <div class="img-holder">
-                        <img src="images/blog/lat-blog-3.jpg" alt="Awesome Image">
-                        <div class="overlay-box">
-                            <div class="box">
-                                <div class="content">
-                                    <a href="blog-single.html"><i class="fa fa-link" aria-hidden="true"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="text-holder">
-                        <ul class="meta-info">
-                            <li><i class="fa fa-user" aria-hidden="true"></i><a href="#">Fletcher</a></li>
-                            <li><i class="fa fa-clock-o" aria-hidden="true"></i><a href="#">March 15, 2016</a></li>
-                        </ul>
-                        <a href="blog-single.html">
-                            <h3 class="blog-title">All Software Boxes and Dongles At Best Prices</h3>
-                        </a> 
-                    </div>
-                </div>
-            </div>
-            <!--End single latest blog-->
         </div>
     </div>
 </section>
@@ -804,37 +401,14 @@
                 <div class="testimonial-carousel">
                     <!--Start single item-->
                     <div class="single-item text-center">
-                        <div class="img-holder">
-                            <img src="images/testimonial/1.png" alt="Awesome Image">
-                        </div>
                         <div class="text-holder">
-                            <h5>Water Damage Repair</h5>
-                            <p>Excellent service and swift repair and I get to keep my Phone. I feel Really great.</p>
+                            <h5>Reparação de danos causados ​​pela água</h5>
+                            <p>Excelente serviço e reparo rápido e consigo manter meu telefone. Eu me sinto muito bem.</p>
                         </div>
                         <div class="client-info">
                             <div class="name pull-left">
-                                <h6>John Wiliamson</h6>
-                                <p>Newyork City</p>
-                            </div>
-                            <div class="rating-box pull-right">
-                                <p>4.5<i class="fa fa-star" aria-hidden="true"></i></p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End single item-->
-                    <!--Start single item-->
-                    <div class="single-item text-center">
-                        <div class="img-holder">
-                            <img src="images/testimonial/2.png" alt="Awesome Image">
-                        </div>
-                        <div class="text-holder">
-                            <h5>Broken Glass Repair</h5>
-                            <p>Great service as this was2nd repair with Mr.Fixit, excellent communication.</p>
-                        </div>
-                        <div class="client-info">
-                            <div class="name pull-left">
-                                <h6>Astley Fletcher</h6>
-                                <p>Los Angles</p>
+                                <h6>João Vinicius</h6>
+                                <p>São Paulo, SP</p>
                             </div>
                             <div class="rating-box pull-right">
                                 <p>5.0<i class="fa fa-star" aria-hidden="true"></i></p>
@@ -844,17 +418,31 @@
                     <!--End single item-->
                     <!--Start single item-->
                     <div class="single-item text-center">
-                        <div class="img-holder">
-                            <img src="images/testimonial/3.png" alt="Awesome Image">
-                        </div>
                         <div class="text-holder">
-                            <h5>Water Damage Repair</h5>
-                            <p>Repaired my iPhone 6s through thorough examination, updated at all times.</p>
+                            <h5>Conserto de vidro quebrado</h5>
+                            <p>Ótimo serviço, pois este foi o segundo reparo com a Cedro Tecnologia, excelente comunicação.</p>
                         </div>
                         <div class="client-info">
                             <div class="name pull-left">
-                                <h6>Mitchel Starc</h6>
-                                <p>California</p>
+                                <h6>Ayrton Gomes</h6>
+                                <p>São Paulo, SP</p>
+                            </div>
+                            <div class="rating-box pull-right">
+                                <p>5.0<i class="fa fa-star" aria-hidden="true"></i></p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End single item-->
+                    <!--Start single item-->
+                    <div class="single-item text-center">
+                        <div class="text-holder">
+                            <h5>Reparação de danos causados pela água</h5>
+                            <p>Reparei meu iPhone XR através de um exame minucioso, atualizado em todos os momentos.</p>
+                        </div>
+                        <div class="client-info">
+                            <div class="name pull-left">
+                                <h6>Michele Moura</h6>
+                                <p>São Paulo, SP</p>
                             </div>
                             <div class="rating-box pull-right">
                                 <p>5.0<i class="fa fa-star" aria-hidden="true"></i></p>
@@ -877,27 +465,30 @@
                 <div class="brand">
                     <!--Start single item-->
                     <div class="single-item">
-                        <a href="#"><img src="images/brand/1.jpg" alt="Awesome Brand Image"></a>
+                        <a href="#"><img src="images/brand/1.png" alt="Awesome Brand Image"></a>
                     </div>
                     <!--End single item-->
                     <!--Start single item-->
                     <div class="single-item">
-                        <a href="#"><img src="images/brand/2.jpg" alt="Awesome Brand Image"></a>
+                        <a href="#"><img src="images/brand/2.png" alt="Awesome Brand Image"></a>
                     </div>
                     <!--End single item-->
                     <!--Start single item-->
                     <div class="single-item">
-                        <a href="#"><img src="images/brand/3.jpg" alt="Awesome Brand Image"></a>
+                        <a href="#"><img src="images/brand/3.png" alt="Awesome Brand Image"></a>
                     </div>
                     <!--End single item-->
                     <!--Start single item-->
                     <div class="single-item">
-                        <a href="#"><img src="images/brand/4.jpg" alt="Awesome Brand Image"></a>
+                        <a href="#"><img src="images/brand/4.png" alt="Awesome Brand Image"></a>
                     </div>
                     <!--End single item-->
                     <!--Start single item-->
                     <div class="single-item">
-                        <a href="#"><img src="images/brand/5.jpg" alt="Awesome Brand Image"></a>
+                        <a href="#"><img src="images/brand/5.png" alt="Awesome Brand Image"></a>
+                    </div>
+                    <div class="single-item">
+                        <a href="#"><img src="images/brand/6.png" alt="Awesome Brand Image"></a>
                     </div>
                     <!--End single item-->
                 </div>

@@ -110,7 +110,7 @@
                                     <li><a href="account.html">Minha Conta</a></li>
                                 </ul>
                             </li>
-                            <li><a href="contact.html">Contate-nos</a></li>
+                            <li><a href="contato.php">Contate-nos</a></li>
                         </ul>
                     </div>
                 </nav>
