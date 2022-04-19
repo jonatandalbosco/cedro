@@ -74,7 +74,7 @@
                                         <div class="overlay-box">
                                             <div class="box">
                                                 <div class="content">
-                                                    <a class="thm-btn bg-1" href="shop-single.html">Ver agora</a>
+                                                    <a class="thm-btn bg-1" href="frontal-pecas.php">Ver agora</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -82,7 +82,7 @@
                                     <div class="title-holder">
                                         <div class="top clearfix">
                                             <div class="product-title text-center">
-                                                <a href="produt">
+                                                <a href="frontal-pecas.php">
                                                     <h5>FRONTAL IPHONE</h5>
                                                 </a>
                                             </div>

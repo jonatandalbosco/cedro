@@ -5474,4 +5474,10 @@ box-shadow: 0px 3px 4px -1px rgba(220,217,217,1);
 .related-product .single-product-item {
   margin-bottom: 0;
 }
+.space-2{
+  padding-top: 20px;
+}
+.text-dark{
+  color: black;
+}
 
