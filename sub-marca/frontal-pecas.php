@@ -69,13 +69,14 @@
                             <!--Start single product item-->
                             <div class="col-md-4 col-sm-4 col-xs-12">
                                 <div class="single-product-item text-center space-2">
-                                    <h1 class="text-dark">FRONTAL IPHONE 7G</h1>
+                                    <h2 class="text-dark">IPHONE 5S</h2>
                                     <p>1 LINHA</p>
-                                    <h1>R$100,00</h1>
+                                    <h1 class="text-dark"><span style="font-size: 22px;" >R$</span>80,00</h1>
                                     <div class="title-holder">
                                         <div class="top clearfix">
                                             <div class="product-title text-center">
-                                                <a data-toggle="modal" data-target="#exampleModal">
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal">
                                                     <h5>SELECIONAR</h5>
                                                 </a>
                                             </div>
@@ -84,36 +85,34 @@
 
                                 </div>
                             </div>
-                            <!-- Button trigger modal -->  
-  <!-- Modal -->
-  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h3 class="modal-title" id="exampleModalLabel">FRONTAL</h3>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-        <div class="modal-body">
-          <h3 class="text-dark">IPHONE 7G</h3>
-          <h1>R$100,00</h1>
-          <p>Cores: Verificar disponibilidade</p>
-          
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                           
+                                            <h3 class="modal-title text-dark space-2"><span class="fontmenos">Modelo:</span> IPHONE 5S
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
+                                            
+                                            <h1 class="text-dark"><span style="font-size: 22px;" >R$</span>80,00</h1>
+                                            <p>FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES	</p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <button type="button" class="btn btn-primary">Comprar</button>
+                                        </div>
 
-          
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal">fechar</button>
-          <button type="button" class="btn btn-primary">Comprar</button>
-        </div>
-      </div>
-    </div>
-  </div>
+                                    </div>
+                                </div>
+                            </div>
                             <!--End single product item-->
 
                         </div>
-
                     </div>
                 </div>
 

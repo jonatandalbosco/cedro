@@ -141,11 +141,4 @@
         </div>
     </div>
 </section>
-<div class="fixed-tabs-Whats">
-  <div class="aba-whatsphone">
-    <div class="aba-whatsphone-icone">
-      <a target="_blank" href="https://wa.link/rc9thb">Agora é só clicar e <br><strong>Fazer seu Pedido!</strong></a>          
-    </div>
-  </div>          
-</div>
 <!--End mainmenu area-->        
