@@ -48,7 +48,7 @@
                 <ul>
                     <li><a href="../index.php">Inicio</a></li>
                     <li><i class="fa fa-caret-right" aria-hidden="true"></i></li>
-                    <li>Marca do produto que deseja</li>
+                    <li><a href="../produtos-marca.php">> Marca do produto que deseja</a</li>
                     <li><i class="fa fa-caret-right" aria-hidden="true"></i></li>
                     <li>Apple</li>
                 </ul>

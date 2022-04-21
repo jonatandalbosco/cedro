@@ -99,7 +99,7 @@
                                         <div class="overlay-box">
                                             <div class="box">
                                                 <div class="content">
-                                                    <a class="thm-btn bg-1" href="shop-single.html">Ver agora</a>
+                                                    <a class="thm-btn bg-1" href="sub-marca/produtos-sm-original.php">Ver agora</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -107,7 +107,7 @@
                                     <div class="title-holder">
                                         <div class="top clearfix">
                                             <div class="product-title text-center">
-                                                <a href="shop-single.html">
+                                                <a href="sub-marca/produtos-sm-original.php">
                                                     <h5>SAMSUNG</h5>
                                                 </a>
                                             </div>
