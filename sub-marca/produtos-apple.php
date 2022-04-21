@@ -65,25 +65,30 @@
                     <div class="shop-content">
                         <div class="row">
 
-
-                            <!--Start single product item-->
+                            <!--INICIO CARD-->
                             <div class="col-md-4 col-sm-4 col-xs-12">
-                                <div class="single-product-item">
+                                <div class="single-product-item text-center space-2">
                                     <div class="img-holder">
-                                        <img src="../images/sub-images/frontal-iphone.png" alt="Awesome Product Image">
+                                        <img src="../images/sub-images/iphone-5s.jpg" alt="Awesome Product Image">
                                         <div class="overlay-box">
                                             <div class="box">
                                                 <div class="content">
-                                                    <a class="thm-btn bg-1" href="frontal-pecas.php">Ver agora</a>
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal">Ver agora</a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP 5S</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>80,00</h1>
                                         <div class="top clearfix">
                                             <div class="product-title text-center">
-                                                <a href="frontal-pecas.php">
-                                                    <h5>FRONTAL IPHONE</h5>
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
                                                 </a>
                                             </div>
                                         </div>
@@ -91,26 +96,61 @@
 
                                 </div>
                             </div>
-                            <!--End single product item-->
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
 
-                            <!--Start single product item-->
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP 5S
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
+
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>80,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenh%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%205S"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+                            <!--INICIO CARD-->
                             <div class="col-md-4 col-sm-4 col-xs-12">
-                                <div class="single-product-item">
+                                <div class="single-product-item text-center space-2">
                                     <div class="img-holder">
-                                        <img src="../images/sub-images/Camera-frontal-e-traseira-apple.png" alt="Awesome Product Image">
+                                        <img src="../images/sub-images/iphone-6g.png" alt="Awesome Product Image">
                                         <div class="overlay-box">
                                             <div class="box">
                                                 <div class="content">
-                                                    <a class="thm-btn bg-1" href="shop-single.html">Ver agora</a>
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal1">Ver agora</a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP 6G</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>85,00</h1>
                                         <div class="top clearfix">
                                             <div class="product-title text-center">
-                                                <a href="shop-single.html">
-                                                    <h5>CAMERA FRONTAL E TRASEIRA IPHONE</h5>
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal1">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
                                                 </a>
                                             </div>
                                         </div>
@@ -118,27 +158,240 @@
 
                                 </div>
                             </div>
-                            <!--End single product item-->
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal1" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP 6G
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
 
-                            <!--Start single product item-->
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>85,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%206G"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+                            <!--INICIO CARD-->
                             <div class="col-md-4 col-sm-4 col-xs-12">
-                                <div class="single-product-item">
+                                <div class="single-product-item text-center space-2">
                                     <div class="img-holder">
-                                        <img src="../images/sub-images/conector-carga-apple.png"
+                                        <img src="../images/sub-images/iphone-6plus.png" alt="Awesome Product Image">
+                                        <div class="overlay-box">
+                                            <div class="box">
+                                                <div class="content">
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal2">Ver agora</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP 6 PLUS</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>90,00</h1>
+                                        <div class="top clearfix">
+                                            <div class="product-title text-center">
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal2">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP 6 PLUS
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
+
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>90,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%206%20plus"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+                            <!--INICIO CARD-->
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="single-product-item text-center space-2">
+                                    <div class="img-holder">
+                                        <img src="../images/sub-images/iphone-6plus.png" alt="Awesome Product Image">
+                                        <div class="overlay-box">
+                                            <div class="box">
+                                                <div class="content">
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal3">Ver agora</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP 6 PLUS Original</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>130,00</h1>
+                                        <div class="top clearfix">
+                                            <div class="product-title text-center">
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal3">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal3" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP 6 PLUS Original
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
+
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>130,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%206%20PLUS%20Original"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+                            <!--INICIO CARD-->
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="single-product-item text-center space-2">
+                                    <div class="img-holder">
+                                        <img src="../images/sub-images/iphone-6S.png" alt="Awesome Product Image">
+                                        <div class="overlay-box">
+                                            <div class="box">
+                                                <div class="content">
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal4">Ver agora</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP 6S</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>85,00</h1>
+                                        <div class="top clearfix">
+                                            <div class="product-title text-center">
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal4">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal4" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP 6S
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
+
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>85,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%206S"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+                            <!--INICIO CARD-->
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="single-product-item text-center space-2">
+                                    <div class="img-holder">
+                                        <img src="../images/sub-images/iphone-6snacional.png"
                                             alt="Awesome Product Image">
                                         <div class="overlay-box">
                                             <div class="box">
                                                 <div class="content">
-                                                    <a class="thm-btn bg-1" href="shop-single.html">Ver agora</a>
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal5">Ver agora</a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP 6S Nacional</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>180,00</h1>
                                         <div class="top clearfix">
                                             <div class="product-title text-center">
-                                                <a href="shop-single.html">
-                                                    <h5>CONECTOR CARGA IPHONE</h5>
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal5">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
                                                 </a>
                                             </div>
                                         </div>
@@ -146,27 +399,59 @@
 
                                 </div>
                             </div>
-                            <!--End single product item-->
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal5" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP 6S Nacional
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
 
-                            <!--Start single product item-->
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>180,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%206S%20Nacional"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+                            <!--INICIO CARD-->
                             <div class="col-md-4 col-sm-4 col-xs-12">
-                                <div class="single-product-item">
+                                <div class="single-product-item text-center space-2">
                                     <div class="img-holder">
-                                        <img src="../images/sub-images/flex-power-apple.png"
-                                            alt="Awesome Product Image">
+                                        <img src="../images/sub-images/iphone-6plus.png" alt="Awesome Product Image">
                                         <div class="overlay-box">
                                             <div class="box">
                                                 <div class="content">
-                                                    <a class="thm-btn bg-1" href="shop-single.html">Ver agora</a>
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal6">Ver agora</a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP 6 PLUS</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>96,00</h1>
                                         <div class="top clearfix">
                                             <div class="product-title text-center">
-                                                <a href="shop-single.html">
-                                                    <h5>FLEX POWER IPHONE</h5>
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal6">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
                                                 </a>
                                             </div>
                                         </div>
@@ -174,27 +459,60 @@
 
                                 </div>
                             </div>
-                            <!--End single product item-->
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal6" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP 6 PLUS
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
 
-                            <!--Start single product item-->
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>96,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%206%20plus"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+
+                            <!--INICIO CARD-->
                             <div class="col-md-4 col-sm-4 col-xs-12">
-                                <div class="single-product-item">
+                                <div class="single-product-item text-center space-2">
                                     <div class="img-holder">
-                                        <img src="../images/sub-images/bateria-iphone.png"
-                                            alt="Awesome Product Image">
+                                        <img src="../images/sub-images/iphone-7g.png" alt="Awesome Product Image">
                                         <div class="overlay-box">
                                             <div class="box">
                                                 <div class="content">
-                                                    <a class="thm-btn bg-1" href="shop-single.html">Ver agora</a>
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal7">Ver agora</a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP 7G</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>100,00</h1>
                                         <div class="top clearfix">
                                             <div class="product-title text-center">
-                                                <a href="shop-single.html">
-                                                    <h5>BATERIA IPHONE</h5>
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal7">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
                                                 </a>
                                             </div>
                                         </div>
@@ -202,28 +520,59 @@
 
                                 </div>
                             </div>
-                            <!--End single product item-->
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal7" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP 7G
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
 
-                            
-                            <!--Start single product item-->
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>100,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%207G"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+                            <!--INICIO CARD-->
                             <div class="col-md-4 col-sm-4 col-xs-12">
-                                <div class="single-product-item">
+                                <div class="single-product-item text-center space-2">
                                     <div class="img-holder">
-                                        <img src="../images/sub-images/auto-falante-apple.png"
-                                            alt="Awesome Product Image">
+                                        <img src="../images/sub-images/iphone-7g.png" alt="Awesome Product Image">
                                         <div class="overlay-box">
                                             <div class="box">
                                                 <div class="content">
-                                                    <a class="thm-btn bg-1" href="shop-single.html">Ver agora</a>
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal8">Ver agora</a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP 7G Original</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>130,00</h1>
                                         <div class="top clearfix">
                                             <div class="product-title text-center">
-                                                <a href="shop-single.html">
-                                                    <h5>AUTO FALANTE E AIRCULAR E VIBRA CALL IPHONE</h5>
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal8">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
                                                 </a>
                                             </div>
                                         </div>
@@ -231,26 +580,59 @@
 
                                 </div>
                             </div>
-                            <!--End single product item-->
-                                                        <!--Start single product item-->
-                                                        <div class="col-md-4 col-sm-4 col-xs-12">
-                                <div class="single-product-item">
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal8" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP 7G Original
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
+
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>130,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%207G%20Original"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+                            <!--INICIO CARD-->
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="single-product-item text-center space-2">
                                     <div class="img-holder">
-                                        <img src="../images/sub-images/tampa-e-carcaca-iphone.png"
-                                            alt="Awesome Product Image">
+                                        <img src="../images/sub-images/iphone-7plus.png" alt="Awesome Product Image">
                                         <div class="overlay-box">
                                             <div class="box">
                                                 <div class="content">
-                                                    <a class="thm-btn bg-1" href="shop-single.html">Ver agora</a>
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal9">Ver agora</a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP 7 PLUS</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>96,00</h1>
                                         <div class="top clearfix">
                                             <div class="product-title text-center">
-                                                <a href="shop-single.html">
-                                                    <h5>TAMPA E CARCACA IPHONE</h5>
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal9">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
                                                 </a>
                                             </div>
                                         </div>
@@ -258,26 +640,60 @@
 
                                 </div>
                             </div>
-                            <!--End single product item-->
-                                                        <!--Start single product item-->
-                                                        <div class="col-md-4 col-sm-4 col-xs-12">
-                                <div class="single-product-item">
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal9" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP 7 PLUS
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
+
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>96,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%207%20PLUS"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+
+                            <!--INICIO CARD-->
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="single-product-item text-center space-2">
                                     <div class="img-holder">
-                                        <img src="../images/sub-images/trouch-ipad-apple.png"
-                                            alt="Awesome Product Image">
+                                        <img src="../images/sub-images/iphone-8g.png" alt="Awesome Product Image">
                                         <div class="overlay-box">
                                             <div class="box">
                                                 <div class="content">
-                                                    <a class="thm-btn bg-1" href="shop-single.html">Ver agora</a>
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal10">Ver agora</a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP 8G</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>100,00</h1>
                                         <div class="top clearfix">
                                             <div class="product-title text-center">
-                                                <a href="shop-single.html">
-                                                    <h5>TOUCH IPAD</h5>
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal10">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
                                                 </a>
                                             </div>
                                         </div>
@@ -285,7 +701,757 @@
 
                                 </div>
                             </div>
-                            <!--End single product item-->
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal10" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP 8G
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
+
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>100,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%208G"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+                            <!--INICIO CARD-->
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="single-product-item text-center space-2">
+                                    <div class="img-holder">
+                                        <img src="../images/sub-images/iphone-8g.png" alt="Awesome Product Image">
+                                        <div class="overlay-box">
+                                            <div class="box">
+                                                <div class="content">
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal11">Ver agora</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP 8G Nacional</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>250,00</h1>
+                                        <div class="top clearfix">
+                                            <div class="product-title text-center">
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal11">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal11" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP 8G Nacional
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
+
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>250,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%208G%20Nacional"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+                            <!--INICIO CARD-->
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="single-product-item text-center space-2">
+                                    <div class="img-holder">
+                                        <img src="../images/sub-images/iphone-8plus.png" alt="Awesome Product Image">
+                                        <div class="overlay-box">
+                                            <div class="box">
+                                                <div class="content">
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal12">Ver agora</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP 8 PLUS</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>96,00</h1>
+                                        <div class="top clearfix">
+                                            <div class="product-title text-center">
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal12">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal12" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP 8 PLUS
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
+
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>96,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%208%20Plus"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+
+                            <!--INICIO CARD-->
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="single-product-item text-center space-2">
+                                    <div class="img-holder">
+                                        <img src="../images/sub-images/iphone-x.png" alt="Awesome Product Image">
+                                        <div class="overlay-box">
+                                            <div class="box">
+                                                <div class="content">
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal13">Ver agora</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP X Oled</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>260,00</h1>
+                                        <div class="top clearfix">
+                                            <div class="product-title text-center">
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal13">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal13" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP X Oled
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
+
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>260,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%20X"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+                            <!--INICIO CARD-->
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="single-product-item text-center space-2">
+                                    <div class="img-holder">
+                                        <img src="../images/sub-images/iphone-xs.png" alt="Awesome Product Image">
+                                        <div class="overlay-box">
+                                            <div class="box">
+                                                <div class="content">
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal14">Ver agora</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP XS Oled</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>270,00</h1>
+                                        <div class="top clearfix">
+                                            <div class="product-title text-center">
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal14">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal14" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP XS Oled
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
+
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>270,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%20XS"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+                            <!--INICIO CARD-->
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="single-product-item text-center space-2">
+                                    <div class="img-holder">
+                                        <img src="../images/sub-images/iphone-xr.png" alt="Awesome Product Image">
+                                        <div class="overlay-box">
+                                            <div class="box">
+                                                <div class="content">
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal15">Ver agora</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP XR Oled</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>280,00</h1>
+                                        <div class="top clearfix">
+                                            <div class="product-title text-center">
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal15">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal15" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP XR Oled
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
+
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>280,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%20XR"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+                            <!--INICIO CARD-->
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="single-product-item text-center space-2">
+                                    <div class="img-holder">
+                                        <img src="../images/sub-images/iphone-xsmax.png" alt="Awesome Product Image">
+                                        <div class="overlay-box">
+                                            <div class="box">
+                                                <div class="content">
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal16">Ver agora</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP XS Max</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>430,00</h1>
+                                        <div class="top clearfix">
+                                            <div class="product-title text-center">
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal16">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal16" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP XS Max
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
+
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>430,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%20XS%20Max"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+                            <!--INICIO CARD-->
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="single-product-item text-center space-2">
+                                    <div class="img-holder">
+                                        <img src="../images/sub-images/iphone-11.png" alt="Awesome Product Image">
+                                        <div class="overlay-box">
+                                            <div class="box">
+                                                <div class="content">
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal17">Ver agora</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP 11</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>280,00</h1>
+                                        <div class="top clearfix">
+                                            <div class="product-title text-center">
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal17">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal17" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP 11
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
+
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>280,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%2011"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+                            <!--INICIO CARD-->
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="single-product-item text-center space-2">
+                                    <div class="img-holder">
+                                        <img src="../images/sub-images/iphone-11-pro.png" alt="Awesome Product Image">
+                                        <div class="overlay-box">
+                                            <div class="box">
+                                                <div class="content">
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal18">Ver agora</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP 11 PRO</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>420,00</h1>
+                                        <div class="top clearfix">
+                                            <div class="product-title text-center">
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal18">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal18" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP 11 PRO
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
+
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>420,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%2011%20PRO"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+
+
+                            <!--INICIO CARD-->
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="single-product-item text-center space-2">
+                                    <div class="img-holder">
+                                        <img src="../images/sub-images/iphone-11-pro.png" alt="Awesome Product Image">
+                                        <div class="overlay-box">
+                                            <div class="box">
+                                                <div class="content">
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal19">Ver agora</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP 11 PRO Max</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>430,00</h1>
+                                        <div class="top clearfix">
+                                            <div class="product-title text-center">
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal19">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal19" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP 11 PRO Max
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
+
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>430,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%2011%20PRO%20Max"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+                            <!--INICIO CARD-->
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="single-product-item text-center space-2">
+                                    <div class="img-holder">
+                                        <img src="../images/sub-images/iphone-11-pro.png" alt="Awesome Product Image">
+                                        <div class="overlay-box">
+                                            <div class="box">
+                                                <div class="content">
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal20">Ver agora</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP 11 PRO Max Oled</h3>
+                                        <h1 class="text-dark"><span style="font-size: 22px;">R$</span>570,00</h1>
+                                        <div class="top clearfix">
+                                            <div class="product-title text-center">
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal20">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal20" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP 11 PRO Max Oled
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
+
+                                            <h1 class="text-dark"><span style="font-size: 22px;">R$</span>570,00</h1>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%2011%20PRO%20Max"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+                            <!--INICIO CARD-->
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="single-product-item text-center space-2">
+                                    <div class="img-holder">
+                                        <img src="../images/sub-images/iphone-12pro.png" alt="Awesome Product Image">
+                                        <div class="overlay-box">
+                                            <div class="box">
+                                                <div class="content">
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal22">Ver agora</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP 12 PRO</h3>
+                                        <h3 class="text-dark">CONSULTAR</h3>
+                                        <div class="top clearfix">
+                                            <div class="product-title text-center">
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal22">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal22" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP 12 PRO
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
+
+                                            <h3 class="text-dark">CONSULTAR</h3>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%2012%20PRO"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
+
+                            <!--INICIO CARD-->
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="single-product-item text-center space-2">
+                                    <div class="img-holder">
+                                        <img src="../images/sub-images/iphone-12pro.png" alt="Awesome Product Image">
+                                        <div class="overlay-box">
+                                            <div class="box">
+                                                <div class="content">
+                                                    <a class="thm-btn bg-1 user-select-auto" data-toggle="modal"
+                                                        data-target="#exampleModal23">Ver agora</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="title-holder">
+                                        <h5>FRONTAL</h5>
+                                        <h3 class="text-dark">IP 12 PRO Max</h3>
+                                        <h3 class="text-dark">CONSULTAR</h3>
+                                        <div class="top clearfix">
+                                            <div class="product-title text-center">
+                                                <a class="user-select-auto" data-toggle="modal"
+                                                    data-target="#exampleModal23">
+                                                    <hr>
+                                                    <h5>SELECIONAR</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Button trigger modal -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal23" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content text-center">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title text-dark space-2"><span
+                                                    class="fontmenos">Modelo:</span> IP 12 PRO Max
+                                            </h3>
+                                        </div>
+                                        <div class="modal-body">
+
+                                            <h3 class="text-dark">CONSULTAR</h3>
+                                            <p class="space-2">FAVOR VERIFICAR DISPONIBILIDADE DA PEÇA, VALORES E CORES
+                                            </p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-dismiss="modal">CANCELAR</button>
+                                            <a
+                                                href="https://api.whatsapp.com/send?phone=5511959493700&text=Tenho%20interesse%20nas%20pe%C3%A7as%20do%20Iphone%2012%20PRO%20Max"><button
+                                                    type="button" class="btn btn-primary">Comprar</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FINAL CARD -->
                         </div>
 
                     </div>
