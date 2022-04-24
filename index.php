@@ -50,10 +50,7 @@
                     data-splitout="none"
                     data-responsive_offset="on"
                     data-start="700">
-                    <div class="slide-content-box">
-                        <h1>Bem vindo ao Cedro Tecnologia <br>reparo rápido</h1>
-                        <p>Usando peças e componentes originais fabricados, podemos<br>restaurar seus telefones celulares ou iDevice para uma condição de novo.</p>
-                    </div>
+                   
                 </div>
                 <div class="tp-caption tp-resizeme" 
                     data-x="left" data-hoffset="0" 
@@ -65,11 +62,7 @@
                     data-splitout="none" 
                     data-responsive_offset="on"
                     data-start="2300">
-                    <div class="slide-content-box">
-                        <div class="button">
-                            <a class="thm-btn bg-1" href="">Buy Now</a>     
-                        </div>
-                    </div>
+                  
                 </div>
                 <div class="tp-caption tp-resizeme" 
                     data-x="left" data-hoffset="176" 
@@ -81,11 +74,7 @@
                     data-splitout="none" 
                     data-responsive_offset="on"
                     data-start="2600">
-                    <div class="slide-content-box">
-                        <div class="button">
-                            <a class="thm-btn bg-2" href="">contact us</a>     
-                        </div>
-                    </div>
+                   
                 </div>
             </li>
             <li data-transition="fade">
@@ -102,14 +91,7 @@
                     data-splitout="none"  
                     data-responsive_offset="on"
                     data-start="500">
-                    <div class="slide-content-box">
-                        <h1>Vamos substituir pela<br>melhor qualidade</h1>
-                        <p>Utilizando peças e componentes originais de fabricação, somos capazes de<br>restaure seus telefones celulares ou iDevice para a condição de novo.</p>
-                        <div class="button">
-                            <a class="thm-btn bg-1" href="#">Buy Now</a>    
-                            <a class="thm-btn bg-2" href="#">Contact Us</a>    
-                        </div>
-                    </div>
+                   
                 </div>
             </li>
             <li data-transition="fade">
@@ -126,10 +108,6 @@
                     data-splitout="none"
                     data-responsive_offset="on"
                     data-start="700">
-                    <div class="slide-content-box">
-                        <h1>We can fix it broken<br>mobile glasses</h1>
-                        <p>Using original manufactured parts and components, we are able to<br>restore your cell phones or iDevice to like-new condition.</p>
-                    </div>
                 </div>
                 <div class="tp-caption tp-resizeme" 
                     data-x="left" data-hoffset="0" 
@@ -141,11 +119,7 @@
                     data-splitout="none" 
                     data-responsive_offset="on"
                     data-start="2300">
-                    <div class="slide-content-box">
-                        <div class="button">
-                            <a class="thm-btn bg-1" href="">Buy Now</a>     
-                        </div>
-                    </div>
+                    
                 </div>
                 <div class="tp-caption tp-resizeme" 
                     data-x="left" data-hoffset="173" 
@@ -157,13 +131,174 @@
                     data-splitout="none" 
                     data-responsive_offset="on"
                     data-start="2600">
-                    <div class="slide-content-box">
-                        <div class="button">
-                            <a class="thm-btn bg-2" href="">Contact Us</a>     
-                        </div>
-                    </div>
+                
                 </div>
             </li>
+            <li data-transition="fade">
+                <img src="images/slides/4.jpg"  alt="" width="1920" height="540" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
+                
+                <div class="tp-caption  tp-resizeme" 
+                    data-x="left" data-hoffset="0" 
+                    data-y="top" data-voffset="125" 
+                    data-transform_idle="o:1;"         
+                    data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" 
+                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" 
+                    data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" 
+                    data-splitin="none" 
+                    data-splitout="none"
+                    data-responsive_offset="on"
+                    data-start="700">
+                   
+                </div>
+                <div class="tp-caption tp-resizeme" 
+                    data-x="left" data-hoffset="0" 
+                    data-y="top" data-voffset="350" 
+                    data-transform_idle="o:1;"                         
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
+                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"                     
+                    data-splitin="none" 
+                    data-splitout="none" 
+                    data-responsive_offset="on"
+                    data-start="2300">
+                  
+                </div>
+                <div class="tp-caption tp-resizeme" 
+                    data-x="left" data-hoffset="176" 
+                    data-y="top" data-voffset="350" 
+                    data-transform_idle="o:1;"                         
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
+                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"                     
+                    data-splitin="none" 
+                    data-splitout="none" 
+                    data-responsive_offset="on"
+                    data-start="2600">
+                   
+                </div>
+            </li>
+            <li data-transition="fade">
+                <img src="images/slides/5.jpg"  alt="" width="1920" height="540" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
+                
+                <div class="tp-caption  tp-resizeme" 
+                    data-x="left" data-hoffset="0" 
+                    data-y="top" data-voffset="125" 
+                    data-transform_idle="o:1;"         
+                    data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" 
+                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" 
+                    data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" 
+                    data-splitin="none" 
+                    data-splitout="none"
+                    data-responsive_offset="on"
+                    data-start="700">
+                   
+                </div>
+                <div class="tp-caption tp-resizeme" 
+                    data-x="left" data-hoffset="0" 
+                    data-y="top" data-voffset="350" 
+                    data-transform_idle="o:1;"                         
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
+                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"                     
+                    data-splitin="none" 
+                    data-splitout="none" 
+                    data-responsive_offset="on"
+                    data-start="2300">
+                  
+                </div>
+                <div class="tp-caption tp-resizeme" 
+                    data-x="left" data-hoffset="176" 
+                    data-y="top" data-voffset="350" 
+                    data-transform_idle="o:1;"                         
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
+                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"                     
+                    data-splitin="none" 
+                    data-splitout="none" 
+                    data-responsive_offset="on"
+                    data-start="2600">
+                   
+                </div>
+            </li>
+            <li data-transition="fade">
+                <img src="images/slides/6.jpg"  alt="" width="1920" height="540" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
+                
+                <div class="tp-caption  tp-resizeme" 
+                    data-x="left" data-hoffset="0" 
+                    data-y="top" data-voffset="125" 
+                    data-transform_idle="o:1;"         
+                    data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" 
+                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" 
+                    data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" 
+                    data-splitin="none" 
+                    data-splitout="none"
+                    data-responsive_offset="on"
+                    data-start="700">
+                   
+                </div>
+                <div class="tp-caption tp-resizeme" 
+                    data-x="left" data-hoffset="0" 
+                    data-y="top" data-voffset="350" 
+                    data-transform_idle="o:1;"                         
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
+                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"                     
+                    data-splitin="none" 
+                    data-splitout="none" 
+                    data-responsive_offset="on"
+                    data-start="2300">
+                  
+                </div>
+                <div class="tp-caption tp-resizeme" 
+                    data-x="left" data-hoffset="176" 
+                    data-y="top" data-voffset="350" 
+                    data-transform_idle="o:1;"                         
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
+                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"                     
+                    data-splitin="none" 
+                    data-splitout="none" 
+                    data-responsive_offset="on"
+                    data-start="2600">
+                   
+                </div>
+            </li>
+            <li data-transition="fade">
+                <img src="images/slides/7.jpg"  alt="" width="1920" height="540" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
+                
+                <div class="tp-caption  tp-resizeme" 
+                    data-x="left" data-hoffset="0" 
+                    data-y="top" data-voffset="125" 
+                    data-transform_idle="o:1;"         
+                    data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" 
+                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" 
+                    data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" 
+                    data-splitin="none" 
+                    data-splitout="none"
+                    data-responsive_offset="on"
+                    data-start="700">
+                   
+                </div>
+                <div class="tp-caption tp-resizeme" 
+                    data-x="left" data-hoffset="0" 
+                    data-y="top" data-voffset="350" 
+                    data-transform_idle="o:1;"                         
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
+                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"                     
+                    data-splitin="none" 
+                    data-splitout="none" 
+                    data-responsive_offset="on"
+                    data-start="2300">
+                  
+                </div>
+                <div class="tp-caption tp-resizeme" 
+                    data-x="left" data-hoffset="176" 
+                    data-y="top" data-voffset="350" 
+                    data-transform_idle="o:1;"                         
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
+                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"                     
+                    data-splitin="none" 
+                    data-splitout="none" 
+                    data-responsive_offset="on"
+                    data-start="2600">
+                   
+                </div>
+            </li>
+
         </ul>
     </div>
 </section>
@@ -456,47 +591,7 @@
     </div>
 </section>
 <!--End testimonial area-->
- 
-<!--Start Brand area-->  
-<section class="brand-area">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="brand">
-                    <!--Start single item-->
-                    <div class="single-item">
-                        <a href="#"><img src="images/brand/1.png" alt="Awesome Brand Image"></a>
-                    </div>
-                    <!--End single item-->
-                    <!--Start single item-->
-                    <div class="single-item">
-                        <a href="#"><img src="images/brand/2.png" alt="Awesome Brand Image"></a>
-                    </div>
-                    <!--End single item-->
-                    <!--Start single item-->
-                    <div class="single-item">
-                        <a href="#"><img src="images/brand/3.png" alt="Awesome Brand Image"></a>
-                    </div>
-                    <!--End single item-->
-                    <!--Start single item-->
-                    <div class="single-item">
-                        <a href="#"><img src="images/brand/4.png" alt="Awesome Brand Image"></a>
-                    </div>
-                    <!--End single item-->
-                    <!--Start single item-->
-                    <div class="single-item">
-                        <a href="#"><img src="images/brand/5.png" alt="Awesome Brand Image"></a>
-                    </div>
-                    <div class="single-item">
-                        <a href="#"><img src="images/brand/6.png" alt="Awesome Brand Image"></a>
-                    </div>
-                    <!--End single item-->
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--End Brand area-->        
+    
   
 <?php include ("includes/footer.php");?>
 

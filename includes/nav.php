@@ -79,35 +79,11 @@
                     <div class="navbar-collapse collapse clearfix">
                         <ul class="navigation clearfix">
                             <li class="current"><a href="index.php">Inicio</a></li>
-                            <li class="dropdown"><a href="services.html">Serviços</a>
-                                <ul>
-                                    <li><a href="smartphone-repair.html">Conserto de Smartphone</a></li>
-                                    <li><a href="tablet-repair.html">Conserto de iPad & Tablet</a></li>
-                                    <!-- VOU PEGAR COM ELE O CONTEÚDO DE SERVIÇOS.
-                                    <li><a href="desktop-repair.html">Conserto de Desktop & Mac</a></li>
-                                    <li><a href="game-repair.html">Game Console Repair</a></li>
-                                    <li><a href="lcd-repair.html">LCD & LED Tv Repair</a></li>
-                                    <li><a href="mp3-repair.html">MP3 & MP4 Player Repair</a></li> 
-                                     -->
-                                </ul>
-                            </li>
-                            <li class="dropdown"><a href="about.html">Páginas</a>
-                                <ul>
-                                    <li><a href="about.html">Sobre Nós</a></li>
-                                    <li><a href="team.html">Conheça nosso Time</a></li>
-                                    <li><a href="faq.html">Perguntas Frequentes</a></li>
-                                    <li><a href="testimonial.html">Depoimentos</a></li>
-                                    <li><a href="pricing.html">Planos</a></li>
-                                    <li><a href="404.html">404 Page</a></li>
-                                </ul>
-                            </li>
+                            <li><a href="serviços.php">Serviços</a>
+                            </li>  
                             <li class="dropdown"><a href="">Produtos</a>
                                 <ul>
                                     <li><a href="produtos-marca.php">Marca do produto que deseja</a></li>
-                                    <li><a href="shop-single.html">Produtos Únicos</a></li>
-                                    <li><a href="shopping-cart.html">Carrinho de Compra</a></li>
-                                    <li><a href="checkout.html">Checkout</a></li>
-                                    <li><a href="account.html">Minha Conta</a></li>
                                 </ul>
                             </li>
                             <li><a href="contato.php">Contate-nos</a></li>
@@ -125,17 +101,6 @@
                         <h5>Atendimento</h5>
                         <h4>(11) 95949-3700</h4>
                     </div>
-                </div>
-                <div class="top-search-box pull-right">
-                    <button><i class="fa fa-search"></i></button>
-                    <ul class="search-box">
-                        <li>
-                            <form action="#">
-                                <input placeholder="Search for something..." type="text">
-                                <button type="submit"><i class="fa fa-search"></i></button>
-                            </form>
-                        </li>
-                    </ul>   
                 </div>
             </div>
         </div>

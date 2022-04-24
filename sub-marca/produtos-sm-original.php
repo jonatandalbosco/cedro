@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Shop || RepairPlus || Responsive HTML 5 Template</title>
+    <title>Produtos | Cedro Tecnologia</title>
 
     <!-- responsive meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,12 +31,12 @@
     <div class="preloader"></div>
     <!--End Preloader -->
 
-    <?php include ("../includes/nav.php");?>
+    <?php include ("../includes/nav2.php");?>
 
     <!--Start breadcrumb area-->
     <section class="breadcrumb-area">
         <div class="container text-center">
-            <h1>Apple</h1>
+            <h1>SM</h1>
         </div>
     </section>
     <!--End breadcrumb area-->
@@ -48,9 +48,9 @@
                 <ul>
                     <li><a href="../index.php">Inicio</a></li>
                     <li><i class="fa fa-caret-right" aria-hidden="true"></i></li>
-                    <li><a href="../produtos-marca.php">> Marca do produto que deseja</a< /li>
+                    <li><a href="../produtos-marca.php"> Marca do produto que deseja</a> </li>
                     <li><i class="fa fa-caret-right" aria-hidden="true"></i></li>
-                    <li>Apple</li>
+                    <li>SM</li>
                 </ul>
             </div>
         </div>

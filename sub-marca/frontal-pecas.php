@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Shop || RepairPlus || Responsive HTML 5 Template</title>
+    <title>Produtos | Cedro Tecnologia</title>
 
     <!-- responsive meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,7 +31,7 @@
     <div class="preloader"></div>
     <!--End Preloader -->
 
-    <?php include ("../includes/nav.php");?>
+    <?php include ("../includes/nav2.php");?>
 
     <!--Start breadcrumb area-->
     <section class="breadcrumb-area">
