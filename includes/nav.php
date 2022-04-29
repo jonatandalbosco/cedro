@@ -26,7 +26,7 @@
 <header class="header-area">
     <div class="container">
         <div class="row">
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 align-logo">
                 <div class="logo">
                     <a href="index.php">
                         <img src="images/logo-cedro.png" alt="Awesome Logo" class="logo-cedro">
@@ -92,7 +92,7 @@
                 </nav>
                 <!--End mainmenu-->
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="col-md-4 col-sm-4 col-xs-12 align-logo">
                 <div class="customer-care pull-left">
                     <div class="icon-holder">
                         <span class="flaticon-cell-phone"></span>

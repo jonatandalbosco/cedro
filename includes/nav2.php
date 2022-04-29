@@ -26,9 +26,9 @@
 <header class="header-area">
     <div class="container">
         <div class="row">
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 align-logo">
                 <div class="logo">
-                    <a href="index.php">
+                    <a href="../index.php">
                         <img src="../images/logo-cedro.png" alt="Awesome Logo" class="logo-cedro">
                     </a>
                 </div>
