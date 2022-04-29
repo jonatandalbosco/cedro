@@ -117,6 +117,32 @@
                                 </div>
                             </div>
                             <!--End single product item-->
+                                                        <!--Start single product item-->
+                                                        <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="single-product-item">
+                                    <div class="img-holder">
+                                        <img src="images/marca-produtos/logo-samsung-incell.png" alt="Awesome Product Image">
+                                        <div class="overlay-box">
+                                            <div class="box">
+                                                <div class="content">
+                                                    <a class="thm-btn bg-1" href="sub-marca/produtos-sm-incell.php">Ver agora</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="title-holder">
+                                        <div class="top clearfix">
+                                            <div class="product-title text-center">
+                                                <a href="sub-marca/produtos-sm-original.php">
+                                                    <h5>SAMSUNG INCELL</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!--End single product item-->
 
                             <!--Start single product item-->
                             <div class="col-md-4 col-sm-4 col-xs-12">
@@ -127,7 +153,7 @@
                                         <div class="overlay-box">
                                             <div class="box">
                                                 <div class="content">
-                                                    <a class="thm-btn bg-1" href="shop-single.html">Ver agora</a>
+                                                    <a class="thm-btn bg-1" href="sub-marca/produtos-mt.php">Ver agora</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -155,7 +181,7 @@
                                         <div class="overlay-box">
                                             <div class="box">
                                                 <div class="content">
-                                                    <a class="thm-btn bg-1" href="shop-single.html">Ver agora</a>
+                                                    <a class="thm-btn bg-1" href="sub-marca/produtos-asus.php">Ver agora</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -183,7 +209,7 @@
                                         <div class="overlay-box">
                                             <div class="box">
                                                 <div class="content">
-                                                    <a class="thm-btn bg-1" href="shop-single.html">Ver agora</a>
+                                                    <a class="thm-btn bg-1" href="sub-marca/produtos-xaI.php">Ver agora</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -212,7 +238,7 @@
                                         <div class="overlay-box">
                                             <div class="box">
                                                 <div class="content">
-                                                    <a class="thm-btn bg-1" href="shop-single.html">Ver agora</a>
+                                                    <a class="thm-btn bg-1" href="sub-marca/produtos-lg.php">Ver agora</a>
                                                 </div>
                                             </div>
                                         </div>
